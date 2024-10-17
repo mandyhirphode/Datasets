@@ -1,0 +1,501 @@
+ComplaintID,ComplaintDate,ComplaintType,ComplaintStatus,AssignedPersonnel,ResolutionDate,PropertyID
+202,2022-08-14,Security,Closed,Abigail Case,2022-09-10,5465
+182,2019-06-21,Billing,Resolved,Brenda Bryant,2019-07-10,11493
+10,2021-05-01,Neighbor,Open,Christina Bates,,30220
+151,2021-03-06,Maintenance,Open,Allison Simmons,,14121
+167,2022-04-03,Neighbor,Open,Nancy Salinas,,10056
+226,2023-04-12,Security,Open,Ashley Sanchez,,45266
+371,2021-10-08,Neighbor,Open,Nathan Harrison,,31060
+353,2019-05-23,Neighbor,Closed,Michelle Wright,2019-06-10,31564
+31,2023-12-26,Billing,Closed,Mark Hill,2024-01-13,11721
+473,2022-02-21,Billing,Resolved,John Gilmore,2022-03-14,37424
+397,2019-08-18,Security,Resolved,Samantha Sawyer,2019-09-02,2932
+294,2021-07-17,Maintenance,Open,Brandon Sanchez,,44947
+280,2023-11-15,Maintenance,In Progress,Debbie Schmidt,,33841
+354,2021-06-24,Noise,Open,Raymond Jones,,3399
+491,2021-09-02,Maintenance,Open,Susan Griffin,,19664
+165,2020-10-29,Security,Resolved,Joel Cook,2020-11-06,23254
+310,2021-03-15,Neighbor,Closed,Allison Wilson,2021-03-27,29953
+203,2022-06-30,Neighbor,Resolved,Rebecca Decker,2022-07-20,1914
+192,2019-07-07,Neighbor,Resolved,Jeffrey Johnson,2019-07-31,25849
+405,2023-04-16,Noise,Resolved,Diane Cook,2023-05-01,19240
+377,2019-07-28,Maintenance,Open,Brandon Grant,,2365
+82,2019-12-16,Noise,Closed,Sarah Miller,2020-01-10,10014
+313,2022-12-26,Maintenance,Open,Cheryl Jones,,18828
+239,2022-08-31,Noise,Closed,Spencer Stevenson,2022-09-13,8072
+38,2021-10-23,Neighbor,Open,Kenneth Gibson,,7273
+206,2022-09-05,Noise,Resolved,Abigail Clayton,2022-09-06,20563
+116,2019-02-28,Maintenance,Closed,Chris Foley,2019-02-28,31885
+346,2023-12-21,Noise,In Progress,Kim Valdez,,3710
+474,2020-09-14,Noise,Closed,Spencer Camacho,2020-10-11,16951
+396,2020-04-19,Noise,Closed,Eric Garcia,2020-04-28,1777
+309,2023-07-16,Billing,Open,Amanda Anderson,,13019
+168,2021-12-18,Billing,Closed,Tanya Barrett,2021-12-21,18789
+84,2020-09-18,Billing,Closed,Devin Mayer,2020-10-02,22272
+14,2020-11-05,Security,Open,Steven Gonzales,,34292
+228,2022-03-11,Noise,Closed,Sarah Clark,2022-03-12,30673
+229,2019-06-02,Security,In Progress,Craig Wise,,23235
+497,2020-01-23,Billing,Resolved,Thomas Ramsey,2020-01-27,6420
+388,2020-01-14,Billing,In Progress,Todd Yang,,41944
+384,2022-01-18,Security,In Progress,Jennifer Clark MD,,1358
+245,2023-04-24,Security,Closed,Brian Bryant,2023-05-11,22108
+195,2019-01-23,Billing,Open,Jennifer Mathews,,44362
+185,2022-01-06,Maintenance,In Progress,Sara Hamilton,,31176
+118,2021-07-23,Neighbor,In Progress,Mrs. Maria Price DDS,,6891
+374,2021-05-03,Security,Open,Erica Taylor,,3974
+91,2021-02-12,Security,In Progress,Bethany Moore,,15568
+391,2022-12-30,Security,Open,Kyle Clark,,2828
+191,2021-06-29,Neighbor,In Progress,Samantha Barnes,,27302
+495,2020-06-26,Billing,Resolved,Robert Barnett,2020-07-21,1184
+403,2022-02-08,Security,Resolved,Jonathan Torres,2022-02-13,49634
+466,2022-03-05,Neighbor,In Progress,Lisa Johnson,,19401
+15,2019-03-22,Neighbor,Closed,Amanda Wiggins,2019-04-07,47973
+24,2022-06-20,Maintenance,In Progress,Pamela Sharp,,26252
+81,2020-06-11,Maintenance,In Progress,Gregory Walker,,3584
+58,2022-07-28,Noise,Resolved,Julie Perry,2022-07-31,27529
+69,2023-07-26,Noise,Open,Rhonda Smith,,44867
+461,2023-01-19,Maintenance,Resolved,Bethany Douglas,2023-02-10,41649
+343,2022-02-09,Billing,Resolved,Karen Goodman,2022-03-10,6350
+65,2023-11-10,Maintenance,Closed,Carlos Dunlap,2023-11-19,14011
+338,2020-12-01,Neighbor,In Progress,Brandon Powell,,31858
+128,2019-11-23,Neighbor,Open,Cody Hopkins,,39688
+364,2021-10-18,Noise,Open,Mary Meyer,,17611
+453,2023-11-29,Security,In Progress,Steven Murphy,,7838
+339,2022-03-10,Neighbor,Open,Noah Rosales,,43722
+324,2022-04-11,Noise,Open,Craig White,,29233
+325,2020-03-20,Maintenance,In Progress,Robert Martin,,4797
+293,2021-09-29,Maintenance,Resolved,Dr. Cody Kane,2021-09-29,10191
+208,2023-11-29,Noise,In Progress,Daniel Howell,,15092
+61,2023-08-23,Maintenance,Resolved,Mary Robertson,2023-09-13,47781
+457,2021-11-14,Neighbor,Closed,Glen Wiggins,2021-11-30,25253
+340,2023-09-02,Neighbor,Closed,Scott Hines,2023-09-24,46474
+401,2021-03-27,Maintenance,Resolved,Martin Oconnell,2021-03-30,13371
+117,2020-01-28,Noise,Closed,Sandra Martinez,2020-02-01,31490
+448,2021-07-07,Security,Closed,Jesse Tran,2021-07-13,43018
+444,2019-09-15,Billing,In Progress,Catherine Wilkins,,9389
+73,2023-05-07,Noise,Closed,Courtney Smith,2023-05-16,44942
+270,2022-01-04,Neighbor,Open,Brittany Heath,,9377
+25,2023-06-20,Billing,Open,Heidi Hall,,9353
+86,2023-07-08,Maintenance,In Progress,Brett Martin,,17263
+432,2020-12-03,Billing,Open,Michelle Fernandez,,12391
+143,2022-08-10,Billing,Closed,Wayne Morales,2022-08-19,47758
+498,2022-04-25,Noise,Closed,John Morris,2022-05-20,6102
+39,2021-07-21,Security,Closed,Justin Collins,2021-07-21,17514
+387,2019-07-27,Maintenance,In Progress,Charles Carson,,1717
+201,2021-01-23,Noise,Open,Maria Myers,,33958
+428,2020-08-23,Neighbor,Closed,Darrell Rush,2020-09-04,35385
+64,2020-03-12,Maintenance,Closed,Laurie Chambers,2020-03-31,14243
+345,2020-10-01,Security,In Progress,Garrett Walsh,,9054
+269,2023-06-06,Neighbor,Closed,Mark Ruiz,2023-06-21,24673
+153,2022-09-23,Security,In Progress,Kimberly Bishop,,47261
+37,2020-04-22,Maintenance,In Progress,Nicole Cortez,,4198
+196,2021-04-25,Noise,Resolved,Dawn Sims,2021-04-26,48451
+87,2022-08-16,Billing,Closed,Melissa Bauer,2022-09-13,4497
+268,2021-06-23,Noise,Closed,Zachary Morrison,2021-07-03,9428
+446,2022-01-31,Billing,Closed,Kathleen Miles,2022-02-11,4539
+216,2022-09-05,Noise,In Progress,Brian Carrillo,,40604
+328,2021-05-07,Neighbor,Resolved,Jennifer Huff,2021-05-19,11902
+7,2022-01-13,Billing,Resolved,Robert Sanchez,2022-01-17,3117
+114,2023-03-18,Neighbor,In Progress,Mary Garcia,,24780
+311,2023-02-24,Security,Resolved,Jamie Stone,2023-03-23,46593
+56,2022-04-03,Security,Closed,Rebecca Finley,2022-04-05,30212
+49,2023-11-24,Billing,In Progress,Phillip Ward,,22356
+418,2022-08-03,Security,In Progress,Patrick Reed,,41878
+443,2022-09-29,Neighbor,Resolved,Teresa Li,2022-10-21,10254
+465,2022-09-03,Billing,Open,Keith Johnson,,1663
+51,2021-10-19,Noise,Open,Jason Johnson,,22630
+435,2022-11-19,Maintenance,In Progress,Heather Vega,,5268
+142,2021-12-30,Maintenance,Resolved,Anthony Ellis,2022-01-11,19699
+108,2021-03-28,Noise,Closed,Sharon Wong,2021-04-04,10073
+386,2022-05-31,Security,Open,Robert Kirk,,43748
+171,2019-10-04,Noise,In Progress,Joshua Trujillo,,42820
+163,2020-12-08,Neighbor,Open,Ashley Bowen,,44146
+319,2022-06-15,Noise,Resolved,Cody Reyes III,2022-06-30,26192
+180,2023-02-17,Maintenance,In Progress,Jeffrey Ward,,15570
+492,2020-05-09,Security,In Progress,Alan Lopez,,27677
+359,2021-08-22,Neighbor,Resolved,Elizabeth Castro,2021-09-15,80
+204,2020-07-06,Maintenance,Open,Angela Davis,,13463
+437,2022-06-11,Maintenance,In Progress,Mike Patel,,45788
+472,2022-05-17,Security,Open,Ryan Doyle,,42304
+315,2021-07-02,Neighbor,In Progress,Angela Key,,8174
+126,2022-10-06,Security,Closed,Mary Hill,2022-10-07,4562
+427,2023-03-17,Noise,Resolved,Colleen Golden,2023-03-27,31488
+332,2022-09-30,Security,In Progress,Brianna Phillips,,18020
+248,2019-03-06,Maintenance,Closed,Jennifer Arnold,2019-04-04,12602
+212,2023-10-31,Security,Closed,Joseph Ross,2023-11-09,31643
+455,2023-11-23,Security,In Progress,Jasmine Green,,16354
+412,2022-02-04,Billing,In Progress,Jessica Diaz,,40212
+164,2020-12-30,Noise,In Progress,Angela Steele,,40843
+408,2021-09-26,Maintenance,Closed,Betty Pollard,2021-10-07,29171
+363,2023-04-26,Maintenance,In Progress,Erik Aguirre,,30319
+368,2020-12-08,Noise,Closed,Vanessa Nicholson,2020-12-24,48579
+138,2020-11-26,Maintenance,Open,Amy Montgomery,,15444
+224,2023-03-25,Security,Closed,Zachary Johnson,2023-04-22,1427
+287,2022-10-25,Maintenance,Open,Stephanie Woods,,6797
+33,2020-04-04,Security,In Progress,Ana Higgins,,41121
+486,2023-11-06,Maintenance,Resolved,Alyssa Harper,2023-11-18,9129
+361,2022-08-31,Maintenance,In Progress,Brandi Foster,,42097
+276,2022-11-05,Noise,Resolved,Elizabeth Hall,2022-11-20,809
+74,2023-04-28,Billing,Closed,Veronica Matthews,2023-05-17,5295
+28,2019-01-22,Maintenance,Closed,Heather Wilson,2019-02-20,14454
+272,2019-08-09,Maintenance,Resolved,Christopher Lee,2019-09-07,5167
+93,2020-07-11,Billing,Open,Timothy Chandler,,35297
+485,2021-10-27,Neighbor,Resolved,Michael Jennings,2021-10-31,32125
+357,2022-06-20,Maintenance,Open,Ryan White,,36670
+221,2021-08-24,Billing,Resolved,Kathryn Lopez,2021-09-10,29194
+103,2022-06-01,Billing,Open,William Schultz,,26986
+385,2021-11-21,Neighbor,Closed,David Suarez,2021-12-12,47770
+286,2019-07-09,Maintenance,In Progress,Jake Jackson,,49351
+3,2023-07-02,Maintenance,In Progress,Eric Marsh,,5230
+289,2023-10-31,Neighbor,In Progress,Benjamin Jackson,,5911
+275,2023-03-28,Maintenance,Resolved,Gregory Wiggins,2023-04-05,19267
+308,2020-04-25,Security,In Progress,Christopher Alexander,,11895
+260,2020-07-05,Maintenance,In Progress,Robert Johnson,,20945
+479,2019-05-01,Neighbor,Open,Tina Shepard,,18983
+150,2021-08-26,Noise,Open,Michael Lawrence,,37542
+255,2020-06-04,Maintenance,Closed,Christopher Austin,2020-06-08,22074
+481,2021-11-14,Noise,Open,Matthew Decker,,19128
+284,2022-10-23,Billing,Resolved,David Thomas,2022-10-28,32197
+97,2023-03-05,Maintenance,Open,Amanda Brown,,35372
+416,2023-02-01,Maintenance,Open,Mary Webster,,27154
+47,2019-11-03,Billing,Closed,Erica Rose,2019-11-28,15233
+360,2023-11-22,Neighbor,In Progress,Jennifer Payne,,14555
+70,2020-09-16,Billing,Resolved,Craig Raymond,2020-09-29,901
+207,2022-08-17,Billing,In Progress,Bradley Johnson,,19487
+288,2019-11-21,Noise,In Progress,Mr. Jonathan Hartman,,36435
+395,2021-06-11,Maintenance,Open,Amy Guerra,,20623
+158,2020-08-07,Neighbor,Resolved,Nicole Duncan,2020-08-11,37535
+329,2020-06-22,Maintenance,In Progress,Anthony Johnson,,37140
+181,2021-07-30,Maintenance,Closed,Amy Bryan,2021-08-17,33024
+92,2022-09-09,Maintenance,Resolved,Melanie Williams,2022-10-03,47369
+235,2020-10-28,Maintenance,Closed,Stephanie Joseph,2020-11-01,11544
+254,2019-08-15,Maintenance,Resolved,Martin Smith,2019-08-24,48941
+60,2022-03-31,Neighbor,Resolved,Abigail Allen,2022-04-10,43367
+200,2021-10-24,Maintenance,In Progress,Jacqueline Monroe,,9826
+80,2019-05-20,Maintenance,Open,David Barnett,,11309
+349,2022-08-06,Billing,Open,Sharon Sims,,19920
+210,2020-09-28,Security,Closed,Jennifer Gutierrez,2020-10-11,41087
+419,2021-05-13,Billing,Closed,Dawn Smith,2021-05-22,19928
+393,2022-05-13,Noise,Resolved,Matthew Walker,2022-05-15,9693
+462,2019-12-22,Billing,In Progress,Andrea Herrera,,14165
+484,2020-06-03,Maintenance,Open,Tina Espinoza,,27132
+146,2022-05-22,Security,Open,Dominique Hudson,,1336
+422,2019-12-04,Maintenance,Resolved,Christina Miller,2019-12-09,23705
+66,2023-03-28,Noise,In Progress,Amanda Mendoza,,27741
+20,2019-12-13,Neighbor,Closed,Cathy Farmer,2019-12-24,974
+316,2019-07-29,Maintenance,Closed,Oscar Ramos,2019-08-09,10184
+499,2019-05-08,Maintenance,Closed,Daniel Stewart,2019-06-01,31549
+79,2023-11-03,Security,Resolved,Trevor Weeks,2023-11-03,41932
+237,2021-12-23,Noise,In Progress,Mathew Myers,,27920
+259,2020-04-20,Maintenance,Resolved,Clinton Lee,2020-05-04,30261
+13,2022-09-25,Neighbor,In Progress,Andrea Sanchez,,34614
+148,2023-07-01,Maintenance,In Progress,Briana Brandt,,19104
+351,2019-06-26,Neighbor,In Progress,Joseph Smith,,20424
+190,2020-06-11,Neighbor,Resolved,Steven Sutton,2020-06-26,39402
+2,2019-01-19,Billing,In Progress,Robin Mack,,11307
+322,2020-01-07,Security,Closed,Joshua Smith,2020-01-17,20187
+480,2023-01-20,Noise,Open,Jasmin Jennings,,35147
+231,2022-04-16,Neighbor,In Progress,Cynthia Henry,,17744
+177,2021-02-15,Security,In Progress,Mallory Mendoza,,19014
+233,2020-04-20,Maintenance,Open,Heather Thomas,,18249
+132,2020-06-25,Billing,Resolved,Isabel Smith,2020-07-13,32772
+22,2021-07-20,Neighbor,Open,Michael Weaver,,11521
+431,2020-12-06,Neighbor,In Progress,Christine Sullivan,,8650
+376,2022-07-21,Security,Resolved,Tristan Ford,2022-08-12,41737
+341,2021-11-15,Maintenance,Open,Nathaniel Harris,,1577
+365,2020-11-05,Security,Open,Cory Russo,,46233
+281,2022-02-03,Maintenance,Closed,Rebecca Brooks,2022-02-25,2334
+110,2021-08-11,Neighbor,In Progress,John Daniels,,39909
+464,2022-11-06,Noise,Closed,Patricia Hanson,2022-11-20,24097
+112,2019-06-08,Billing,Resolved,Steve Keller,2019-06-17,10509
+483,2023-05-27,Neighbor,Closed,Michael Cruz,2023-06-16,44988
+140,2020-06-19,Billing,Open,Miss Patricia Davidson,,9050
+78,2023-11-22,Security,Closed,John Parrish,2023-12-01,16252
+162,2020-02-10,Billing,Resolved,Pamela Schmidt,2020-03-04,19740
+347,2019-04-20,Neighbor,Open,Austin Smith,,5016
+161,2019-06-13,Billing,Closed,Heather Manning,2019-06-29,26779
+34,2020-10-23,Billing,Open,Terry Silva,,10462
+244,2022-10-19,Neighbor,Open,Christopher Turner,,38829
+451,2023-10-12,Noise,Open,Jason Patel,,47332
+283,2022-06-26,Maintenance,Closed,Melissa Campbell,2022-07-03,24828
+500,2021-02-13,Billing,Open,Tony Blankenship,,9174
+243,2019-10-29,Billing,Resolved,Christopher Smith,2019-10-30,33770
+300,2022-01-30,Billing,Resolved,Jillian Smith,2022-02-20,44387
+454,2023-03-08,Maintenance,Resolved,Bradley Wood,2023-04-04,43992
+320,2020-07-04,Billing,Resolved,James Hernandez,2020-07-10,22845
+493,2020-09-04,Security,Open,Ebony Mcguire,,5349
+410,2019-09-16,Noise,In Progress,Marco Garza DVM,,48157
+99,2022-02-08,Maintenance,Resolved,Vicki Strong,2022-02-20,18152
+27,2019-03-14,Neighbor,Closed,Melody Baker,2019-04-06,21092
+21,2022-09-07,Neighbor,Resolved,Zachary Douglas,2022-09-23,474
+17,2019-09-07,Noise,In Progress,William Weber,,27590
+155,2023-11-18,Billing,In Progress,Tanner James,,988
+356,2019-04-22,Security,Open,Melissa Rogers,,26263
+209,2023-05-12,Billing,Resolved,Brandi Reed,2023-06-01,38243
+251,2021-03-23,Noise,Resolved,Bradley Cole,2021-04-18,31613
+442,2019-09-21,Security,Resolved,Ashley Cochran,2019-10-06,39267
+125,2019-11-29,Security,In Progress,James Moore,,13325
+399,2021-01-06,Security,In Progress,Bernard Sharp,,11181
+299,2021-11-25,Security,Resolved,Shelby Murray,2021-12-24,45513
+314,2021-10-25,Maintenance,Resolved,Michael Gonzalez,2021-10-30,14262
+96,2019-09-10,Neighbor,Open,Trevor Smith,,2201
+26,2020-12-25,Noise,Resolved,Jasmine Garrett,2021-01-04,24944
+102,2020-08-21,Neighbor,In Progress,Kathleen Mccarthy,,14403
+375,2022-12-28,Maintenance,In Progress,Sharon Brown,,42408
+4,2020-07-28,Billing,In Progress,William Baker,,44391
+390,2023-08-11,Maintenance,Resolved,Cody Morris,2023-09-07,44580
+326,2020-12-08,Noise,Open,Elizabeth Gutierrez,,7715
+219,2021-06-05,Maintenance,Open,Gregory Allen,,5058
+336,2019-01-22,Security,Open,Melinda Campbell,,24595
+32,2020-05-16,Billing,Closed,Gregory Quinn,2020-05-19,38308
+392,2022-08-29,Billing,Resolved,Jill Rowland,2022-09-01,24912
+302,2019-10-02,Billing,Resolved,Suzanne Wolfe,2019-10-17,49463
+292,2019-07-24,Noise,In Progress,Ryan Hayes,,6876
+256,2023-02-01,Security,Open,John Gardner,,39310
+301,2020-08-14,Noise,Open,Michael Ortiz,,46909
+434,2022-12-05,Maintenance,Open,Jennifer Melton,,32128
+232,2022-12-13,Billing,In Progress,Oscar Cruz,,46698
+404,2019-03-18,Neighbor,Resolved,William Chen,2019-03-24,27082
+188,2022-05-25,Neighbor,In Progress,Rick Stanley,,10728
+304,2020-06-20,Billing,Closed,Claire Smith,2020-06-27,28778
+77,2023-01-07,Noise,In Progress,Craig Crawford,,39472
+425,2020-05-06,Noise,Resolved,Kirsten Perez,2020-05-20,34929
+222,2023-02-20,Neighbor,Open,Samuel Freeman,,14556
+55,2019-07-05,Billing,Closed,Frank Woods,2019-07-22,36979
+121,2021-06-17,Neighbor,In Progress,Kathleen Robinson,,11976
+490,2023-03-04,Maintenance,In Progress,Christopher Mccoy,,30242
+63,2022-08-25,Security,Open,Kendra Peterson,,34993
+414,2022-03-05,Neighbor,Open,Bethany Cunningham,,31445
+214,2023-01-11,Noise,In Progress,Tony Barker,,45085
+144,2021-08-29,Neighbor,Resolved,Laura Rivera,2021-09-21,6245
+467,2020-08-26,Neighbor,Closed,Kevin Young,2020-09-01,6718
+241,2021-02-12,Security,Open,Emily Gilmore,,31260
+76,2022-04-08,Security,Open,Angela Henry,,11665
+35,2021-04-06,Security,In Progress,Richard Moody,,26367
+187,2021-05-08,Neighbor,In Progress,Amy Wright,,47537
+183,2019-01-10,Noise,Resolved,Karen Thomas,2019-01-25,20491
+249,2021-04-27,Maintenance,Closed,Miss Kimberly Holloway,2021-05-12,48142
+306,2020-08-07,Noise,Open,Elizabeth Brown,,16998
+145,2020-08-28,Maintenance,Closed,James Haynes,2020-09-22,6978
+134,2019-02-03,Neighbor,Resolved,Edward Johnson,2019-02-17,47524
+189,2022-08-02,Maintenance,Closed,Theodore Hernandez,2022-08-05,32730
+285,2022-04-01,Noise,In Progress,Jeremy Edwards,,37427
+234,2021-04-29,Neighbor,Open,Michael Chavez,,16477
+166,2020-05-21,Noise,Closed,Becky Parrish,2020-06-18,29858
+426,2023-09-13,Neighbor,Closed,Krista Fuller,2023-10-06,25074
+429,2021-10-03,Noise,Resolved,Maria Nguyen,2021-10-22,15888
+262,2023-11-02,Neighbor,Resolved,Mitchell Anderson,2023-11-03,35810
+72,2019-07-18,Noise,Closed,Joseph Bentley,2019-07-21,39307
+48,2020-12-31,Maintenance,In Progress,Valerie Morgan,,40188
+36,2022-07-06,Maintenance,Resolved,Joshua Warren DDS,2022-07-22,26838
+46,2022-05-15,Security,Resolved,Joan Wilson,2022-05-22,27050
+123,2021-03-21,Neighbor,In Progress,Michael Johnson,,36944
+246,2020-12-01,Billing,In Progress,Daniel Hall,,967
+489,2020-04-19,Neighbor,In Progress,Kathryn Morris,,11089
+149,2022-05-14,Security,Closed,Michael Terry MD,2022-05-14,15415
+19,2019-05-05,Billing,Open,Kevin Smith,,35222
+452,2019-09-08,Maintenance,Closed,Steven Martin,2019-10-06,6554
+469,2020-10-23,Security,Open,Lisa Baker,,22223
+199,2022-03-08,Billing,In Progress,Dakota Lawson,,31397
+101,2021-11-05,Security,Open,David Wilson,,8601
+496,2021-06-05,Maintenance,Closed,Kayla Sullivan,2021-06-26,32137
+381,2020-07-28,Maintenance,Closed,Christine Wolf,2020-08-02,44891
+156,2021-07-16,Security,Closed,Anthony Sims,2021-07-26,30423
+159,2023-10-28,Neighbor,Resolved,Ronald Dalton,2023-11-09,1764
+369,2020-10-03,Maintenance,In Progress,Garrett Joyce,,46914
+252,2020-05-28,Maintenance,In Progress,Kyle Norton,,713
+1,2021-02-11,Billing,Resolved,Lisa Vincent,2021-02-14,13223
+291,2021-05-02,Maintenance,Resolved,Anne Richardson,2021-05-02,16118
+217,2020-08-15,Neighbor,In Progress,Jacqueline Ramirez,,30450
+18,2019-03-11,Noise,Resolved,Elizabeth Baker,2019-03-25,38595
+62,2020-09-27,Maintenance,In Progress,Natasha Maldonado,,48498
+477,2019-04-05,Security,Open,Carrie Rodriguez,,30334
+297,2020-12-30,Noise,Resolved,Denise Johnson,2021-01-21,6368
+355,2023-10-16,Billing,Open,Austin Gregory,,22143
+90,2019-04-03,Billing,Resolved,Laura Williams,2019-04-04,14425
+104,2019-07-15,Security,Closed,Allison Nelson,2019-07-28,3950
+230,2020-08-07,Billing,Closed,Whitney Williams,2020-08-18,32824
+488,2023-10-16,Noise,Closed,Rebecca Baldwin,2023-11-06,11707
+307,2019-05-27,Maintenance,Resolved,Robert Stephens,2019-06-09,26929
+372,2022-03-05,Security,Resolved,Brianna Moss,2022-03-23,10992
+298,2021-12-13,Maintenance,Closed,John Reed,2022-01-01,1026
+417,2021-06-27,Maintenance,In Progress,Stacy Lowe,,35103
+45,2022-06-21,Maintenance,Closed,Stacey Cook,2022-07-08,26162
+331,2022-01-19,Maintenance,Open,Paul Hensley,,34007
+176,2020-05-25,Noise,Resolved,Shannon Weber,2020-05-27,39650
+382,2021-11-27,Security,Resolved,Robert Taylor,2021-12-23,36478
+42,2020-10-01,Security,Resolved,Shirley Mooney,2020-10-20,20949
+267,2023-08-18,Security,In Progress,Aaron Michael,,22442
+172,2020-05-26,Neighbor,Resolved,Gabriel Copeland MD,2020-06-06,4048
+337,2022-05-12,Billing,In Progress,Colleen Bell,,30452
+330,2022-06-21,Billing,Closed,Ruben Woodard,2022-06-26,24049
+367,2020-08-08,Noise,In Progress,Ricky Wagner,,4177
+487,2019-12-01,Noise,Resolved,Peter Turner,2019-12-25,23631
+327,2020-10-12,Maintenance,Resolved,Robert Johnson,2020-11-07,30729
+107,2019-04-07,Noise,Resolved,Ricardo Jones,2019-04-21,34032
+184,2021-02-26,Billing,Closed,Alexandra Harper,2021-03-19,40248
+220,2021-12-02,Maintenance,Open,Tamara Reid,,29972
+348,2019-05-11,Noise,Open,Andre Flores Jr.,,21542
+318,2023-01-11,Maintenance,Resolved,Tiffany Cohen,2023-01-29,23786
+250,2019-03-26,Maintenance,Closed,Angie King,2019-04-13,1175
+43,2019-10-13,Maintenance,In Progress,Ronald Welch,,9979
+173,2019-10-20,Noise,Open,William Johnson,,5455
+398,2021-08-20,Billing,In Progress,Joanne Austin,,41309
+400,2019-10-23,Maintenance,Resolved,Jonathan Jones,2019-10-23,25435
+238,2020-07-17,Neighbor,Open,Karl Solis,,22912
+335,2023-07-23,Noise,Open,Dawn Wilson,,6084
+438,2023-05-25,Security,Resolved,Dylan Rivera,2023-06-17,46455
+352,2019-12-07,Neighbor,Open,Ryan Gonzalez,,25612
+193,2023-02-19,Security,Closed,Clayton Peterson,2023-03-03,36937
+433,2023-12-19,Billing,Open,Miguel Stokes DVM,,29800
+85,2019-12-27,Maintenance,Resolved,Patrick Potts,2019-12-31,39298
+225,2023-10-15,Maintenance,Closed,Robert Jordan DDS,2023-10-16,31444
+279,2022-02-18,Neighbor,In Progress,John Ramirez,,26922
+135,2023-09-28,Noise,Closed,Mary Wells,2023-10-18,586
+471,2023-04-25,Billing,Open,Timothy Taylor,,23914
+83,2019-03-16,Noise,In Progress,Cody Gonzalez,,39983
+95,2023-08-24,Security,Closed,Audrey Williams,2023-09-11,8788
+154,2020-09-20,Neighbor,Open,Michael Smith,,31950
+137,2019-07-06,Noise,Open,Alexa Beard,,37733
+441,2020-03-01,Noise,Resolved,Mr. Matthew Mendoza,2020-03-16,15650
+89,2020-10-27,Security,In Progress,Mark Weaver,,36621
+75,2019-08-09,Noise,Open,Shannon Thomas,,18957
+263,2019-07-31,Noise,Resolved,Angel Martin DDS,2019-08-23,7320
+430,2022-07-08,Noise,Open,Teresa Clayton,,444
+344,2022-06-16,Security,Open,Jacqueline Cole,,40231
+261,2020-11-29,Neighbor,In Progress,Maria Campos,,9358
+124,2020-05-03,Maintenance,In Progress,Donna Mejia,,32793
+16,2022-09-06,Security,In Progress,Justin Bush,,39912
+333,2020-03-28,Security,Resolved,Sylvia Turner,2020-03-29,31026
+198,2023-07-22,Maintenance,Resolved,Sara Lawrence,2023-08-20,20148
+350,2023-10-07,Security,In Progress,Mary Berry,,12062
+273,2022-12-29,Noise,Resolved,Lynn King,2023-01-14,11942
+139,2021-04-13,Billing,In Progress,Linda Perez,,996
+290,2021-10-04,Noise,Open,William Lee,,22542
+266,2021-11-06,Billing,Open,Diana Harper,,6604
+394,2020-08-08,Neighbor,Open,Rachel Pham,,22424
+186,2021-07-05,Billing,Closed,Kristen Harris,2021-07-14,10939
+449,2022-12-08,Noise,Closed,David George,2023-01-05,11801
+94,2021-11-14,Security,In Progress,Rhonda Brooks,,47912
+478,2022-05-01,Billing,Closed,Kimberly Thomas,2022-05-24,11789
+282,2019-08-12,Maintenance,Resolved,Mrs. Chelsea Villa,2019-08-24,19253
+421,2023-03-19,Billing,Closed,Keith Gonzalez,2023-04-10,29651
+305,2019-06-08,Noise,Closed,Jeffrey Edwards,2019-06-28,14195
+411,2020-03-10,Maintenance,Resolved,Amanda Jones MD,2020-03-18,9082
+402,2023-07-21,Security,Closed,Patrick Henderson,2023-08-03,49847
+6,2019-05-05,Noise,Resolved,William Ball,2019-06-01,14753
+119,2021-06-01,Security,Open,Larry Walton,,9161
+122,2023-09-13,Neighbor,Resolved,Juan Stewart,2023-09-30,15595
+88,2020-11-14,Billing,In Progress,Samantha Harris,,19343
+380,2019-02-24,Billing,In Progress,Valerie Pacheco,,35465
+127,2020-01-23,Neighbor,Open,Connie Stevens,,45934
+470,2020-05-29,Neighbor,In Progress,Brian Allen,,47681
+52,2021-08-16,Neighbor,Resolved,Jennifer Wallace,2021-09-06,16564
+436,2020-04-12,Noise,Closed,Jamie Weaver,2020-04-30,44433
+106,2021-04-24,Neighbor,In Progress,Katherine Clarke,,41343
+11,2023-06-16,Billing,Open,Mr. Ryan Obrien MD,,24864
+358,2019-08-29,Maintenance,Resolved,Caroline Powell,2019-09-27,649
+141,2020-11-08,Security,Closed,Earl Hall,2020-11-23,7615
+366,2022-12-30,Neighbor,In Progress,Jasmine Reed,,7262
+218,2022-03-29,Neighbor,Open,David Perez,,10289
+113,2022-02-12,Security,Open,Maria George,,42409
+129,2020-08-31,Billing,Closed,Timothy Chavez,2020-09-01,40281
+440,2021-06-29,Maintenance,In Progress,Seth Lopez,,5689
+447,2022-06-26,Maintenance,Closed,Anthony Pena,2022-07-11,1052
+459,2020-06-30,Security,Closed,Alan Ali,2020-07-13,31731
+274,2019-08-28,Billing,Resolved,Joel Hodges,2019-08-31,32759
+5,2020-07-09,Billing,In Progress,Christopher Nelson,,25911
+30,2019-03-06,Maintenance,Resolved,Christopher Harrison,2019-03-30,11708
+312,2020-02-16,Noise,Open,Laura Ramirez,,19087
+57,2021-02-02,Maintenance,Closed,Carla Obrien,2021-02-24,39997
+194,2019-05-12,Security,In Progress,Dustin Rice,,9618
+278,2023-03-03,Neighbor,Resolved,Stacy Owens,2023-03-22,36355
+296,2023-06-03,Billing,Resolved,Nicole Walton,2023-06-20,8731
+258,2023-06-15,Billing,In Progress,Beth Johnson,,6370
+463,2019-08-17,Noise,Open,James Brooks,,17171
+9,2021-09-04,Noise,Open,Reginald Christensen,,43987
+303,2022-10-29,Maintenance,In Progress,Nicole Banks,,1931
+130,2021-07-27,Noise,Closed,Mr. John Khan,2021-08-15,8971
+213,2022-12-10,Maintenance,Resolved,Danielle Thomas,2022-12-16,15246
+152,2019-11-11,Security,Open,Gregory Blankenship,,18699
+40,2022-09-08,Noise,In Progress,Heather Hunt,,20020
+445,2023-01-22,Neighbor,Closed,Andrea Rivera,2023-01-23,31268
+323,2021-08-22,Security,Resolved,Allison Powell,2021-09-15,25823
+178,2022-12-01,Neighbor,Open,Dominique Williams,,5015
+389,2023-05-26,Maintenance,Resolved,Dr. Andrew Maxwell,2023-06-23,17
+423,2023-10-26,Maintenance,In Progress,Matthew Gonzales,,29005
+197,2021-04-09,Maintenance,In Progress,Daniel Williams,,20032
+100,2019-02-07,Billing,Closed,Cory Lloyd,2019-02-13,35883
+131,2020-04-16,Security,Open,Christine Ritter MD,,24729
+373,2019-04-27,Maintenance,Resolved,Mr. John Zavala,2019-05-09,30971
+59,2023-03-14,Billing,In Progress,Joe Lam,,24655
+133,2022-03-02,Maintenance,In Progress,Kimberly Valenzuela,,2412
+342,2021-10-24,Maintenance,Open,Michelle Meyer,,15732
+460,2021-05-16,Noise,Closed,Robert Hamilton,2021-06-13,16834
+169,2021-04-25,Noise,In Progress,Elizabeth Kaufman,,4404
+115,2022-06-11,Security,Closed,Colleen Blanchard,2022-06-13,3316
+475,2022-12-13,Neighbor,Open,Joshua Cox,,18542
+215,2022-05-27,Security,In Progress,Elizabeth Sanchez,,45333
+476,2023-02-03,Noise,Open,Patricia Howe,,30912
+147,2019-06-26,Billing,Open,Robert Rogers,,22415
+378,2021-10-13,Maintenance,Closed,Joshua Vasquez,2021-11-10,44252
+407,2019-10-14,Billing,Open,Maria Braun,,472
+424,2019-01-07,Noise,Closed,Mary Miller,2019-01-29,26549
+170,2020-05-28,Noise,Closed,Zachary Miller,2020-06-12,2662
+71,2019-05-03,Maintenance,Resolved,Larry Green,2019-06-01,25471
+50,2023-05-19,Noise,Open,Danny Campbell MD,,21219
+415,2021-11-18,Noise,Open,Trevor Torres,,38272
+41,2022-05-31,Billing,Open,Shaun Hernandez,,15793
+247,2022-10-26,Noise,Resolved,Bryan Newman,2022-11-01,9071
+370,2023-09-12,Noise,In Progress,Andrew Smith,,45927
+54,2022-01-25,Noise,Open,Dr. Jonathan Clark,,13898
+456,2021-10-30,Noise,Resolved,Leslie House,2021-11-23,7748
+494,2020-09-03,Neighbor,Closed,Kimberly Ryan,2020-09-24,36248
+406,2022-11-19,Neighbor,Resolved,Ronald Butler,2022-11-21,2990
+136,2022-12-11,Billing,Resolved,Matthew Williams,2023-01-09,30076
+482,2020-12-13,Neighbor,Open,Jonathan Cisneros,,18003
+8,2021-08-09,Maintenance,In Progress,Angela Lucas,,36342
+67,2023-01-30,Noise,Closed,Monique Jackson,2023-01-31,26424
+105,2021-06-27,Maintenance,In Progress,Heather Hubbard,,44221
+257,2021-06-16,Security,Closed,Penny Marshall,2021-07-01,44521
+413,2020-01-15,Maintenance,Open,Tony Swanson,,13514
+175,2019-09-26,Noise,Closed,Rebecca Reynolds,2019-09-29,6422
+109,2023-05-12,Security,In Progress,Marc Webb,,24192
+383,2023-12-27,Security,In Progress,Vanessa Garner,,22136
+174,2023-03-16,Neighbor,In Progress,Ryan Montes,,38551
+44,2022-12-10,Maintenance,Open,Brendan Meyer,,32885
+160,2019-12-28,Security,Resolved,Jessica Williams,2020-01-25,46374
+29,2019-11-28,Neighbor,Open,Mary Murillo,,13494
+211,2021-03-13,Noise,Open,Dr. Helen Jimenez,,28014
+12,2021-07-20,Noise,Resolved,Dustin Lopez,2021-08-08,32868
+468,2019-10-17,Billing,In Progress,Robin Dunn,,38354
+450,2023-11-29,Security,Closed,Matthew Adams,2023-12-25,21754
+253,2019-06-11,Neighbor,Resolved,Amy Clark,2019-06-17,18035
+271,2022-04-21,Noise,Closed,Chad Beltran,2022-04-30,33456
+439,2022-07-02,Neighbor,Closed,Michelle Scott,2022-07-30,8351
+98,2023-03-27,Neighbor,In Progress,Melissa Ray,,30750
+68,2023-12-08,Maintenance,Resolved,Crystal Wright,2023-12-13,18202
+295,2019-05-25,Billing,Closed,Daniel Rodriguez,2019-05-28,17717
+179,2019-02-12,Neighbor,Open,Danny Harris,,23675
+265,2021-05-06,Noise,Resolved,Nicole Smith,2021-05-29,24119
+157,2023-10-29,Noise,Resolved,Jessica Horton,2023-11-03,25895
+242,2021-04-24,Maintenance,Closed,Stefanie Nguyen,2021-05-22,24899
+53,2021-11-10,Security,Resolved,Breanna Jenkins,2021-11-27,651
+240,2019-05-17,Neighbor,In Progress,Zachary Jones,,2145
+458,2023-09-01,Maintenance,Open,Glen Young,,25289
+23,2020-01-05,Neighbor,Open,Donald Jackson,,44721
+111,2019-01-20,Noise,In Progress,Stacy Garcia,,42571
+379,2023-04-14,Billing,Resolved,Mark Smith,2023-05-12,13373
+120,2021-05-05,Neighbor,Closed,Morgan Gonzalez,2021-05-14,700
+236,2020-10-11,Neighbor,Resolved,Jerry Montgomery,2020-10-20,9988
+223,2019-04-08,Noise,In Progress,Robert Adams,,18489
+409,2023-06-05,Noise,Resolved,Alicia Sullivan,2023-07-01,20552
+227,2022-03-12,Maintenance,Closed,Nathan Payne,2022-04-06,29431
+277,2021-09-26,Neighbor,Closed,John Kent,2021-10-18,25104
+321,2019-08-26,Billing,In Progress,Jason Allen,,30223
+317,2023-10-01,Maintenance,Resolved,Zachary Barton,2023-10-23,42652
+205,2023-06-22,Noise,Closed,Christopher Jones,2023-06-30,49312
+362,2022-05-28,Neighbor,Open,Terri Fisher,,2878
+420,2023-11-15,Maintenance,Resolved,Richard Parsons,2023-12-03,48426
+264,2022-08-28,Maintenance,Open,James Mcclure,,11150
+334,2019-07-14,Maintenance,Resolved,Carrie Holden,2019-07-16,40482
